@@ -1,10 +1,3 @@
-[![Build Status](https://travis-ci.org/reportportal/agent-postman.svg?branch=master)](https://travis-ci.org/reportportal/agent-postman)[![Code Coverage](https://codecov.io/gh/reportportal/agent-postman/branch/master/graph/badge.svg)](https://codecov.io/gh/reportportal/agent-postman)
-[![npm version](https://badge.fury.io/js/newman-reporter-reportportal.svg)](https://badge.fury.io/js/newman-reporter-reportportal)
-
-# newman-reporter-reportportal
-
-Newman runtime reporter for [EPAM report portal](https://github.com/reportportal/reportportal) which provides information about collection run.
-
 ## Install
 
 The installation should be global if newman is installed globally, otherwise - local (replace -g from the command below with -S for a local installation).
