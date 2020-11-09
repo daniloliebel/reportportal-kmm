@@ -1,6 +1,6 @@
 {
   "name": "newman-reporter-reportportalkmm",
-  "version": "0.0.17",
+  "version": "0.0.19",
   "description": "Reportportal reporter kmm for newman ",
   "keywords": [
     "postman",
