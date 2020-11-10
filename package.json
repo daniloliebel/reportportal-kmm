@@ -1,13 +1,14 @@
 {
   "name": "newman-reporter-reportportalkmm",
-  "version": "0.0.25",
+  "version": "0.0.26",
   "description": "Reportportal reporter kmm for newman ",
   "keywords": [
     "postman",
     "newman",
-    "epam"
+    "epam",
+	"kmm"
   ],
-  "homepage": "https://github.com/reportportal/agent-postman",
+  "homepage": "https://github.com/daniloliebel/reportportal-kmm",
   "main": "index",
   "author": "Ilya Koshaleu",
   "license": "Apache-2.0",
@@ -16,7 +17,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/reportportal/agent-postman.git"
+    "url": "git+https://github.com/daniloliebel/reportportal-kmm.git"
   },
   "dependencies": {
     "lodash": "^4.17.15",
@@ -29,7 +30,7 @@
     "eslint-plugin-lodash": "^5.1.0"
   },
   "bugs": {
-    "url": "https://github.com/reportportal/agent-postman/issues"
+    "url": "https://github.com/daniloliebel/reportportal-kmm/issues"
   },
   "directories": {
     "lib": "lib"
