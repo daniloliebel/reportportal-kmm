@@ -1,3 +1,5 @@
+![Node.js Package](https://github.com/daniloliebel/reportportal-kmm/workflows/Node.js%20Package/badge.svg)
+
 ## Install
 
 The installation should be global if newman is installed globally, otherwise - local (replace -g from the command below with -S for a local installation).
